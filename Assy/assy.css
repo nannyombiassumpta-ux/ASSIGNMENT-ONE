@@ -1,0 +1,24 @@
+h1{
+    background-color: black;
+    font-size: 40PX;
+    text-shadow: 3px 2px maroon;
+}
+h3{
+    border: solid;
+    color: green;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 30px;
+}
+body {
+    background-color:peachpuff;
+    color:blue;
+    margin:25px 50px 75px 100px;
+}
+   p.thick {font-weight: bold;} 
+div{
+    padding: 20px;
+    padding-bottom: 30px;
+    padding-right: 25px;
+    padding-top: 50px;
+}
